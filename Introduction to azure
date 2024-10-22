@@ -1,0 +1,39 @@
+Azure Basics
+What is Azure?
+
+Microsoft’s cloud computing platform.
+Provides a wide range of services: compute, storage, databases, networking, analytics, etc.
+Cloud Types
+
+Public Cloud: Services offered over the public internet.
+Private Cloud: Dedicated resources for a single organization.
+Hybrid Cloud: Combination of both public and private.
+Azure Regions
+
+Geographical areas with data centers.
+Ensures redundancy and compliance with local laws.
+Core Services
+Compute Services
+
+Azure Virtual Machines: On-demand, scalable computing resources.
+Azure App Service: Platform for building and hosting web applications.
+Azure Functions: Serverless compute service for event-driven applications.
+Storage Services
+
+Azure Blob Storage: Object storage for unstructured data.
+Azure File Storage: Managed file shares for cloud or on-premises.
+Azure Table Storage: NoSQL key-value store.
+Database Services
+
+Azure SQL Database: Managed relational database service.
+Azure Cosmos DB: Globally distributed, multi-model database service.
+Azure Database for MySQL/PostgreSQL: Managed database services.
+Networking
+Azure Virtual Network (VNet)
+
+Enables Azure resources to securely communicate.
+Supports subnets, IP address ranges, and network security groups.
+Load Balancer
+
+Distributes incoming network traffic across multiple resources.
+Enhances availability and reliability.
