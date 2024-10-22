@@ -1,0 +1,8 @@
+Steps to create a resource group in Microsoft Azure:
+
+Step 1: Sign in to Microsoft Azure 
+Step 2: Select "RESOURCE GROUP" in home page.
+Step 3: Click on "CREATE".
+step 4: Enter the Resource Group name, subscription and also select the region.
+Step 5: Click on "Review+create" option which is located at bottom left corner.
+Step 6: After completing Step 5, Click on "Create" option which is located at bottom left corner to create a Resource group.
